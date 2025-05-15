@@ -23,4 +23,4 @@ title: Material & Métodos
 
 - python, pip, venv
 
-
+- [Virtualenv 101](https://medium.com/@jagtaprathmesh19/virtualenv-101-the-secret-to-managing-python-projects-like-a-pro-ee24c9f5362f) 
